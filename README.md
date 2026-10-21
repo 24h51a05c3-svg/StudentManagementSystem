@@ -1,6 +1,6 @@
 # Student Management System
 
-This project manages student information.
+This project manages student search.
 
 ## Features
 - Add student details
